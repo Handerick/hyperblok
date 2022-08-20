@@ -1,5 +1,6 @@
 Esta es una prueba inicial de GIT
-segundo ejemplo
-esta es una prueba
-despues de eliminar el directorio
+primer ejemplo
+esta ya no es una prueba
+ya se elimino el directorio
 vamos es la vencida
+el día de hoy hice varios cambios
