@@ -1,4 +1,6 @@
 Esta es una prueba inicial de GIT
+
+
 primer ejemplo
 esta ya no es una prueba
 ya se elimino el directorio
@@ -8,3 +10,8 @@ el tercer cambio linea 7
 lo nuevo de la linea 8
 
 hoy se pudo realizar el ajuste sobre las denuncias que no subian
+
+
+voy a gregar muchas lineas aqui para poder visualizar los cambios solo en una de las ramas
+
+esto no deberia estar pasando, que pasaria
