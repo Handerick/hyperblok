@@ -7,5 +7,4 @@ el día de hoy hice varios cambios
 el tercer cambio linea 7
 lo nuevo de la linea 8
 
-
-hoy es el dia 
+hoy se pudo realizar el ajuste sobre las denuncias que no subian
