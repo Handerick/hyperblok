@@ -9,18 +9,9 @@ el día de hoy hice varios cambios
 el tercer cambio linea 7
 lo nuevo de la linea 8
 
-hoy se pudo realizar el ajuste sobre las denuncias que no subian
+estoy en pruebas
 
-
-voy a gregar muchas lineas aqui para poder visualizar los cambios solo en una de las ramas
-
-esto no deberia estar pasando, que pasaria
-
-pero vamos a ver hasta donde puedo llegar con las pruebas entre las ramas de cada uno 
+vamos a intentar realizar un merge otra vez 
 
 
 
-
-
-
-vamos a ver como se ve
