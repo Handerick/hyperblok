@@ -15,11 +15,7 @@ vamos a intentar realizar un merge otra vez
 
 
 
-<<<<<<< HEAD
-=======
-
 
 
 
 otra vez
->>>>>>> pruebas
