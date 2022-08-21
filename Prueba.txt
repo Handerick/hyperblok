@@ -14,7 +14,7 @@ estoy en pruebas
 vamos a intentar realizar un merge otra vez 
 
 
-cambios hechos desde github
+cambios hechos desde github que pasara
 
 
 
