@@ -15,3 +15,5 @@ hoy se pudo realizar el ajuste sobre las denuncias que no subian
 voy a gregar muchas lineas aqui para poder visualizar los cambios solo en una de las ramas
 
 esto no deberia estar pasando, que pasaria
+
+pero vamos a ver hasta donde puedo llegar con las pruebas entre las ramas de cada uno 
