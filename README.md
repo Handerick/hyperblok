@@ -1,3 +1,5 @@
 # hyperblok
-una prueba para aprendizaje
-es solo una prueba
+>este es mi primer proyecto y por ende el primer readme
+
+
+solo es por un ejemplo 
